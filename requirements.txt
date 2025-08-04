@@ -1,0 +1,9 @@
+Flask==3.0.3
+requests==2.32.3
+a2a-sdk==0.3.0
+uvicorn>=0.30.6
+typing-extensions==4.12.2
+httpx>=0.28.1
+fastapi>=0.104.1
+pydantic>=2.11.3
+python-multipart>=0.0.9
